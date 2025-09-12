@@ -1,0 +1,16 @@
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\bin\Debug\net8.0-windows\FravegaCapdevila.exe
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\bin\Debug\net8.0-windows\FravegaCapdevila.deps.json
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\bin\Debug\net8.0-windows\FravegaCapdevila.runtimeconfig.json
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\bin\Debug\net8.0-windows\FravegaCapdevila.dll
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\bin\Debug\net8.0-windows\FravegaCapdevila.pdb
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.Form1.resources
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.vbproj.GenerateResource.cache
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.AssemblyInfoInputs.cache
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.AssemblyInfo.vb
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.vbproj.CoreCompileInputs.cache
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.dll
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\refint\FravegaCapdevila.dll
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.pdb
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\FravegaCapdevila.genruntimeconfig.cache
+C:\Users\Estudiante\source\repos\FravegaCapdevila\FravegaCapdevila\obj\Debug\net8.0-windows\ref\FravegaCapdevila.dll

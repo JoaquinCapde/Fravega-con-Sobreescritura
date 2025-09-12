@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FravegaCapdevila/1.0.0": {
+        "runtime": {
+          "FravegaCapdevila.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FravegaCapdevila/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
