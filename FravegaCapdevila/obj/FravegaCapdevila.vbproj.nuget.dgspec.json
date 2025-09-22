@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Estudiante\\source\\repos\\FravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj": {}
+    "C:\\Users\\Estudiante\\Desktop\\SobreescrituraFravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\Estudiante\\source\\repos\\FravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj": {
+    "C:\\Users\\Estudiante\\Desktop\\SobreescrituraFravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Estudiante\\source\\repos\\FravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj",
+        "projectUniqueName": "C:\\Users\\Estudiante\\Desktop\\SobreescrituraFravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj",
         "projectName": "FravegaCapdevila",
-        "projectPath": "C:\\Users\\Estudiante\\source\\repos\\FravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj",
+        "projectPath": "C:\\Users\\Estudiante\\Desktop\\SobreescrituraFravegaCapdevila\\FravegaCapdevila\\FravegaCapdevila.vbproj",
         "packagesPath": "C:\\Users\\Estudiante\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Estudiante\\source\\repos\\FravegaCapdevila\\FravegaCapdevila\\obj\\",
+        "outputPath": "C:\\Users\\Estudiante\\Desktop\\SobreescrituraFravegaCapdevila\\FravegaCapdevila\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Estudiante\\AppData\\Roaming\\NuGet\\NuGet.Config",

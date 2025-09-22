@@ -13,7 +13,7 @@
 
     End Sub
 
-    Public Overridable Function PrecioDeVenta()
+    Public Overrides Function PrecioDeVenta()
         Return ((Me.preciodecompra * 40) / 100) + Me.preciodecompra
     End Function
 End Class

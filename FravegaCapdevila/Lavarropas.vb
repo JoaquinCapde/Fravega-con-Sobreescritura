@@ -11,7 +11,7 @@
 
     End Sub
 
-    Public Overridable Function PrecioDeVenta()
+    Public Overrides Function PrecioDeVenta()
         If (Me.stock > 100) Then
             Return preciodecompra
         Else

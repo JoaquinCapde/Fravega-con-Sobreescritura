@@ -16,7 +16,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("FravegaCapdevila"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14bf6d157fcd6fd2f8e980b6e61a0ae7507f8ee4"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("FravegaCapdevila"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("FravegaCapdevila"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
